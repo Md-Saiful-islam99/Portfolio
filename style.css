@@ -12,7 +12,7 @@
 }
 .cm-bg-info-font{
     color: rgb(111, 0, 255);
-    text-shadow: 2px 2px 3px #dbb9ec;
+    text-shadow: 2px 2px 3px #ebd7f5;
 }
 
 /* home page */
@@ -25,7 +25,7 @@ font-size: 22px;
 }
 
 .cm-bg-about{
-    background-color: #f5f4f8;
+    background-color: #ffffff;
 }
 .cm-about-img{
     margin: 20px 0;
